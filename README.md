@@ -1,16 +1,29 @@
-### Hi there 👋
 
-<!--
-**MitARiz/MitARiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mike! 👋
 
-Here are some ideas to get you started:
+hi there
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+NONE so sad....
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on someware in thailand.
+
+🧠 I'm currently learning everythings that i want.
+
+🤔 I'm looking for help with coding,web dev. and more.
+
+💬 Ask me about photograph
+
+📫 How to reach me [none]
+
+⚡️ Fun fact i love you.
+
+
+## 🔗 Links
+[NONE]
+
+
+## 🚀 About Me
+I'm a full lazy
